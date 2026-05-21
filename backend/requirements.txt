@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+groq
+pdfplumber
+python-docx
+beautifulsoup4
+requests
+python-multipart
+passlib[bcrypt]
+python-jose[cryptography]
+sqlalchemy
+pandas
+openpyxl
+python-dotenv

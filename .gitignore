@@ -1,0 +1,34 @@
+# Environment Variables
+**/.env
+**/*.env.local
+
+# Node.js
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/package-lock.json
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.pytest_cache/
+**/venv/
+**/env/
+
+# Databases & Storage
+**/*.db
+**/*.sqlite3
+backend/storage/*.xlsx
+!backend/storage/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

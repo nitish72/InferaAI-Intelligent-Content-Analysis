@@ -1,0 +1,15 @@
+🚀 Infera AI API started
+INFO:     127.0.0.1:52732 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52737 - "POST /api/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52746 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52752 - "POST /api/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52755 - "POST /api/summarize/text HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52763 - "POST /api/forgot-password HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50820 - "GET /api/notifications HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50824 - "GET /api/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53833 - "POST /api/summarize/url HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53839 - "GET /api/preview/url?url=https%3A%2F%2Fexample.com HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53847 - "POST /api/summarize/file HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62896 - "POST /api/notifications/read/09a63844-90ac-4571-9de3-ea4bc8579e14 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62902 - "DELETE /api/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62904 - "POST /api/auth/forgot-password HTTP/1.1" 200 OK
